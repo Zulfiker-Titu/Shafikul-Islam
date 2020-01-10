@@ -76,7 +76,7 @@ http://jotv.bdtype.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1,Discovery HD
 http://103.118.76.229:1935/tvprogram/DISCOVERY/playlist.m3u8
 #EXTINF:-1,National Geographic
-http://103.81.104.222/live/nat-geo/index.m3u8
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
 #EXTINF:-1,Akaash Aath (Opt-01)
 https://streamer-1.toffeelive.com/live/akash_aath_720/index.m3u8
 #EXTINF:-1,Akaash Aath (Opt-02)
@@ -100,7 +100,7 @@ http://103.121.36.238:8081/live/jalshamovies/chunks.m3u8
 #EXTINF:-1,Zee Bangla (Opt-1)
 http://103.118.76.229:1935/tvprogram/ZEE-BANGLA/playlist.m3u8
 #EXTINF:-1,Zee Bangla (Opt-2)
-http://103.118.76.229:1935/tvprogram/ZEE-BANGLA/playlist.m3u8
+http://103.121.36.238:8081/live/zeebanglahd-25/chunks.m3u8
 #EXTINF:-1,Zee Bangla (Opt-3)
 http://pockettv.xyz/api/zee.m3u8?c=zeebanglahd
 #EXTINF:-1,Zee Bangla Cinema (Opt-1)
@@ -261,6 +261,12 @@ http://news7.mycast.in/encode/news7/playlist.m3u8
 http://wearelive.livebox.co.in/naxatratvhls/Naxatratv.m3u8
 #EXTINF:-1,Kanak News
 http://139.59.13.228:8081/live/stream/playlist.m3u8
+#EXTINF:-1,Nick
+http://103.121.36.238:8081/live/nike-50/chunks.m3u8
+#EXTINF:-1,Nick JR
+http://185.176.117.243/live/eds/Nick_JR/HLS_encr/Nick_JR.m3u8
+#EXTINF:-1,Big Magic
+http://pockettv.xyz/api/zee.m3u8?c=bigmagic
 #EXTINF:-1,Discovery Kids
 http://streamidvo.multitvsolution.in/DiscoveryKidsEng-a/playlist.m3u8
 #EXTINF:-1,Sony Yay
@@ -279,10 +285,6 @@ http://103.118.76.229:1935/tvprogram/CARTOON/playlist.m3u8
 http://103.111.120.46/hls/Carton_Network.m3u8
 #EXTINF:-1,CARTOON NETWORK 2
 http://95.170.215.109:80/hls/m3u8/CNArabica-Backup.m3u8
-#EXTINF:-1,Nick
-http://103.121.36.238:8081/live/nike-50/chunks.m3u8
-#EXTINF:-1,Nick JR
-http://185.176.117.243/live/eds/Nick_JR/HLS_encr/Nick_JR.m3u8
 #EXTINF:-1,KETNET JUNIOR
 http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
 #EXTINF:-1,AKARAM KIDZ
@@ -341,14 +343,14 @@ http://172.16.50.2:8080/hls/starsports2.m3u8
 http://103.118.76.229:1935/ tvprogram/STAR-SPORTS-SELECT1/playlist.m3u8
 #EXTINF:-1,Star Sports Select 2
 http://103.121.36.238:8081/live/select2/chunks.m3u8
+#EXTINF:-1,Sky Net Sports 1
+http://fr-c.movply.stream/hls/star-sports-select-2-hd.m3u8
 #EXTINF:-1,Sky Net Sports 2
 http://103.118.76.229:1935/tvprogram/CBeebies/playlist.m3u8
 #EXTINF:-1,Sky Sports Cricket
 http://103.121.36.238:8081/live/skyfootball/chunks.m3u8
 #EXTINF:-1,Sky Sports Football
 http://103.121.36.238:8081/live/bein1/playlist.m3u8
-#EXTINF:-1,Sky Sports Premier League
-http://sds3.selez.xyz/hls/skyepllsh/chunks.m3u8
 #EXTINF:-1,World Football
 http://ms-azure-video.gslb.startimestv.com/live/ST_WORLD_FOOTBALL_HD_1020_1000_640x480_305754/playlist.m3u8
 #EXTINF:-1,Sports Focus
@@ -365,8 +367,6 @@ http://103.81.104.222/live/ten-cricket/index.m3u8
 http://163.172.85.133:8080/TenS/sports/index.m3u8
 #EXTINF:-1,Aatrakhanru Sport HD
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
-#EXTINF:-1,Bayern Munich TV
-http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32.m3u8
 #EXTINF:-1,ESPN
 http://npse.brots.world/espn2.m3u8
 #EXTINF:-1,Flight Sports
@@ -381,8 +381,6 @@ http://alkasmsl4.akamaized.net/hls/live/2003123/alkasstwoMasrsbv/master570.m3u8
 http://alkasmsl4.akamaized.net/hls/live/2003123/four4ansdbv/master570.m3u8
 #EXTINF:-1,Alkass Five HD
 http://alkasmsl4.akamaized.net/hls/live/2003123/fiveAnsdbv/master570.m3u8
-#EXTINF:-1,true premier football 
-http://119.59.116.83:8081/4k/t1/playlist.m3u8
 #EXTINF:-1,rm tv
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
 #EXTINF:-1,Dsport
@@ -487,6 +485,10 @@ http://itvusabox-hls-01.dgo-nyc3.itvusa.tv/itvusabox/itvstream.m3u8
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-SD/chunklist.m3u8
 #EXTINF:-1,Bible Explorations
 http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8
+#EXTINF:-1,Sanskar
+http://pockettv.xyz/api/zee.m3u8?c=sanskartv
+#EXTINF:-1,Swamiji TV
+http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/chunklist_w823726530_b1100000.m3u8
 #EXTINF:-1,Iskcon Girgoav
 https://vodaapp.shemaroo.com/iskongirgoav/Stream1/playlist.m3u8
 #EXTINF:-1,Ganga Aarti
@@ -561,6 +563,8 @@ http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/index.m3u8
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
 #EXTINF:-1,Housefull Movies
 http://streamidvo.multitvsolution.in/Housefullmovies-f/playlist.m3u8
+#EXTINF:-1,Big Ganga
+http://pockettv.xyz/api/zee.m3u8?c=bigganga
 #EXTINF:-1,BOLLYWOOD CLASSIC
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1,Cinema TV
@@ -804,7 +808,9 @@ http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
 #EXTINF:-1,CINE VOICE
 http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
 #EXTINF:-1,DIL SE
-http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
+http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8
+#EXTINF:-1,Kadak Hits
+http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/index_2128_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,Music India
 http://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
 #EXTINF:-1,Music Mastii (Opt-1)
