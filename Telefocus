@@ -1,4 +1,4 @@
-#EXTM3U
+﻿#EXTM3U
 #EXTINF:-1,[Visit in Facebook:Telefocus IPTV]
 https://www.facebook.com/telefocus.iptv/?referrer=whatsapp
 #EXTINF:-1,Ananda TV
@@ -359,10 +359,6 @@ http://103.118.76.229:1935/tvprogram/CBeebies/playlist.m3u8
 http://103.121.36.238:8081/live/skyfootball/chunks.m3u8
 #EXTINF:-1,Sky Sports Football
 http://103.121.36.238:8081/live/bein1/playlist.m3u8
-#EXTINF:-1,Bein Sports 1
-https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
-#EXTINF:-1,Bein Sports 2
-https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1,World Football
 http://ms-azure-video.gslb.startimestv.com/live/ST_WORLD_FOOTBALL_HD_1020_1000_640x480_305754/playlist.m3u8
 #EXTINF:-1,Sports Focus
@@ -439,6 +435,8 @@ http://163.172.26.186:8090/oldcr/1/index.m3u8
 http://163.172.26.186:8090/oldcr/1/index.m3u8
 #EXTINF:-1,Willow
 http://163.172.26.186:8090/oldcr/7/index.m3u8
+#EXTINF:-1,Metro TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1,Fox News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1,The Weather Channel
@@ -749,6 +747,8 @@ http://103.121.36.238:8081/live/animalplanet-13/chunks.m3u8
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8?IWAK-PEYEK.m3u8
 #EXTINF:-1,NAT GEO PEOPLE
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
+#EXTINF:-1,National Geographic HD
+http://185.176.117.243/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
 #EXTINF:-1,National Geographic (Opt-1)
 http://103.121.36.238:8081/live/natgeohd/chunks.m3u8
 #EXTINF:-1,National Geographic (Opt-2)
